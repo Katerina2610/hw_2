@@ -76,7 +76,7 @@
     </tfoot>
    </table>
     </div>
-<p>Lorem ipsum</p>
+<p style="text-align: right; font-size: 15px;">Lorem ipsum</p>
 </body>
 </html>
 
